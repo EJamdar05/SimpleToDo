@@ -26,7 +26,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/qpP8Aid.mp4' title='Demo' width='' alt='Demo' />
+[Imgur](https://imgur.com/7oYVKIy)
 
 GIF created with Samsung Galaxy S20 Screen Recording Software
 
